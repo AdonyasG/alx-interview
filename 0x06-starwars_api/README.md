@@ -23,7 +23,7 @@ $ 0-starwars_characters.js <movie_id>
 ```
 ## Example
 ```bash
-$ 0-starwars_characters.js 3
+$ ./0-starwars_characters.js 3
 ```
 ## Output
 ```bash
